@@ -1,52 +1,43 @@
 {
-  "Color": "#FF5733",
-  "Head": {
-    "title": "Jhon Doe | Frontend Developer & Designer",
-    "NavbarName": "Jhon Doe"
-  },
-  "HomePage": {
-    "name": "Jhon Doe",
-    "Position": ["Position 1", "Position 2", "Position 3", "Position 4"],
-    "description": "I design and build websites that look good, and work well."
-  },
-  "AboutPage": {
-    "AboutParagraph": "I am a frontend developer and designer with a passion for creating beautiful and user-friendly websites and applications. I have a strong background in both web development and graphic design, and I enjoy using my skills to create stunning websites and interfaces that are easy to use and navigate.In my previous work, I have designed and developed websites for a variety of clients, including small businesses, non-profit organizations, and large corporations. I have also created mobile applications and responsive websites that are compatible with a variety of devices and screen sizes. My goal is always to create websites and applications that are visually appealing and user-friendly, and I believe that my skills and experience make me an excellent frontend developer and designer.",
-    "ImageLink": "https://cdn.vectorstock.com/i/1000x1000/23/81/default-avatar-profile-icon-vector-18942381.webp"
-  },
-  "Skills": ["Html", "Bootstrap", "Figma"],
-  "Projects": [
-    {
-      "title": "Project Title1",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name1",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title2",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name2",
-      "Technologies": ["REACT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 2 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title3",
-      "ImageLink": "/",
-      "Status": "Working On it",
-      "ProjectName": "Project Name3",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 3 ",
-      "DemoLink": ""
-    }
-  ],
-  "Contact": {
-    "Email": "johndoe@gmail.com",
-    "Github": "https://github.com/johndoe",
-    "Twitter": "https://twitter.com/johndoe",
-    "LinkedIn": "https://linkedin.com/in/johndoe"
-  }
+	"Color": "#338dff",
+	"Head": {
+		"title": "Vishant Nileshkumar Shah",
+		"NavbarName": "Vishant Nileshkumar Shah"
+	},
+	"HomePage": {
+		"name": "Vishant Nileshkumar Shah",
+		"Position": ["Web Developer", "Musician", "Techy", "Cricketer"],
+		"description": "A Tech Geek"
+	},
+	"AboutPage": {
+		"AboutParagraph": "A full-stack web developer, better at making hand-alone applications and Softwares majorly on both backend and frontend. Always ready to learn new tech stuff.\n",
+		"ImageLink": "https://vishant-n-shah.vercel.app/static/media/me.749c040fe13285490885.png"
+	},
+	"Skills": ["ReactJS", "Django", "Firebase", "AWS", "Tailwind CSS", "Next.js"],
+	"Projects": [
+		{
+			"title": "Demo Card Banking System",
+			"ImageLink": "https://vishant-n-shah.vercel.app/static/media/p7.acfaafa28af12a7045b0.png",
+			"Status": "Completed",
+			"ProjectName": "Demo Card Banking System",
+			"Technologies": ["ReactJS", "Figma", "Tailwind CSS", "Vercel"],
+			"Description": "Made a dummy bank system card with modern UI/UX designs using React and Tailwind CSS",
+			"DemoLink": "banksystemcard.vercel.app"
+		},
+		{
+			"title": "Typing Test Game",
+			"ImageLink": "https://vishant-n-shah.vercel.app/static/media/p8.1240d0a0fcc3eeeba4df.png",
+			"Status": "Completed",
+			"ProjectName": "Typing Test Game",
+			"Technologies": ["ReactJS", "Bulma-CSS"],
+			"Description": "Typing Test Game made with React.js",
+			"DemoLink": "https://typing-test-gold.vercel.app/"
+		}
+	],
+	"Contact": {
+		"Email": "vishant9797@gmail.com",
+		"Github": "https://github.com/https://github.com/vishant007",
+		"Twitter": "https://twitter.com/https://twitter.com/VishantShah10",
+		"linkedIn": "https://www.linkedin.com/in/https://www.linkedin.com/in/thevishantshah/"
+	}
 }
